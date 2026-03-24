@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-### Name : Sanjeev A
-### Reg no : 212224230246
+### Name : SURJITH D
+### Reg no : 212223043006
 
 # AIM:
 To draw the UML diagram for ATM and Banking System.
