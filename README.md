@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-### Name : SURJITH D
-### Reg no : 212223043006
+### Name : Rishi Chandran R
+### Reg no : 212223043005
 
 # AIM:
 To draw the UML diagram for ATM and Banking System.
